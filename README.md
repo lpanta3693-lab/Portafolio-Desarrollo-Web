@@ -30,7 +30,7 @@ Este repositorio ha sido creado como un portafolio académico para almacenar y o
 
 Puedes acceder al repositorio desde:
 
-[enlace de tu repositorio]
+https://github.com/lpanta3693-lab/Portafolio-Desarrollo-Web.git
 
 ---
 
