@@ -20,7 +20,8 @@ Este repositorio ha sido creado como un portafolio académico para almacenar y o
 
 | Unidad | Tema | Estado |
 |--------|------|--------|
-| Unidad 1 | Creación de repositorio en GitHub | ✅ |
+| Unidad 1 | Creación de repositorio en GitHub | ✅ | 
+| Calculadora web Funcional | ✅ |
 | Unidad 2 | Próximamente | ---- |
 | Unidad 3 | Próximamente | ---- |
 
